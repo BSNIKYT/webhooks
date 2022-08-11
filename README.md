@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub contributors](https://img.shields.io/badge/contributors-1-yellow)](https://github.com/abova29/discriminant/graphs/contributors/) [![MIT License](https://img.shields.io/badge/License-MIT%20License-brightgreen)](https://opensource.org/licenses/MIT) ![repo-size](https://img.shields.io/badge/repo%20size-9%2C42%20%D0%9C%D0%91-blue)
 
 ## Содержание
-1. [Вступление](https://github.com/abova29/discriminant#Встуление)
+1. [Вступление](https://github.com/BSNIKYT/webhooks/blob/main/README.md#%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 2. [Как установить](https://github.com/abova29/discriminant#Как-установить)
 3. [Как обновить](https://github.com/abova29/discriminant#Как-обновить)
 4. [Благодарности](https://github.com/abova29/discriminant#Благодарности)
